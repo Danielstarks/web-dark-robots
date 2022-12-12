@@ -78,7 +78,7 @@ span {
 /*Header end Cards*/
 
 section.main {
-    background-image: url(img/cap.webp);
+    background-image: url(/img/cap.webp);
     padding: 70px 0;
     background-position: center;
     background-size: cover;
